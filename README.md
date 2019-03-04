@@ -40,9 +40,9 @@
 ![image](https://github.com/bluef1ash/phone_number_manager/raw/master/src/design/screenshot/list.png)
 ![image](https://github.com/bluef1ash/phone_number_manager/raw/master/src/design/screenshot/create.png)
 
-## Author: Bluef1ash（廿二月的天）
+##作者：LearnTech（毛脸雷公嘴）
 
-E-mail: liangtian_2005@163.com
+E-mail: isxw@qq.com
 
 ## 商业友好的开源协议
 
